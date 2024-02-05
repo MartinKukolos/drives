@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ApplicationManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>NetworkDrives.Agent.exe</Id>
+  <PathToDownload>https://download.kukolos.com/network-drives/MayMeow.NetworkDrives.Agent.exe</PathToDownload>
+  <Signature>b1EuPLaXsHcvATiKoJtk2Bw+xFis+qGcuYCQginHM0HnJjlsST2xoYuBgcCK+2oqZyQEbUwObw6hsHxDvKBc8g==</Signature>
+  <Hash>DB2CA48AAD7866FCA0D3BC4CD950A0CFADD3BC180AFBAFACAC14A2A3B0DDA61B</Hash>
+</ApplicationManifest>
