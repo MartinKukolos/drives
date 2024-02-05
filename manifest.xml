@@ -2,6 +2,6 @@
 <ApplicationManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Id>NetworkDrives.Agent.exe</Id>
   <PathToDownload>https://download.kukolos.com/network-drives/NetworkDrives.Agent.exe</PathToDownload>
-  <Signature>6s/5DUBG8rZ30ft+I6Gr03Y9hGoxEQP8PsuMcwyX5gU83LigedsPYNn16qbR6kh7ESe6mY3vv4q1SY6QRGVaZA==</Signature>
-  <Hash>CBB392BA73D13D0EDDB3887AEC0A5934FA479E4606C3138DB6535EEFDD68DFF1</Hash>
+  <Signature>gQElXKNc8cr9M+DsAVnFdYKY5CDk9eFCm+nR6JFPdEUZiZVe5oH38w7mgHJwVwqu43cEHhCPsvp8i/Y3q3DuSQ==</Signature>
+  <Hash>E36E3B20AEED2E26CCCE6619C5FC86234D876D396FD13EB54D441607E6DFCC89</Hash>
 </ApplicationManifest>
