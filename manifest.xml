@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-16"?>
 <ApplicationManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Id>NetworkDrives.Agent.exe</Id>
-  <PathToDownload>https://download.kukolos.com/network-drives/MayMeow.NetworkDrives.Agent.exe</PathToDownload>
-  <Signature>oWfSispq8mLsFYsdsnwtnm4xJVBQECl1pAoV0KMgeFCMZHk+2woyMtkYOrOuFLsX2fvTzI8N0D3Lb7zWa4rHlQ==</Signature>
+  <PathToDownload />
+  <Signature>oZLRI4uw73FKdCvMuPVwXLOl5D0Bz/uZxH8sqJFWjuWQ0tDoj+FmMOV9rTQvW/4TiZ10vI52OSNGTp1E0YBC2w==</Signature>
   <Hash>585358F7C2B44102A36B771F8EA4696E9D0F9E65792F485E997C1756792D2A51</Hash>
 </ApplicationManifest>
